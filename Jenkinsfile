@@ -10,7 +10,8 @@ pipeline{
         steps{
                  sh "docker build -t=selenium/docker01 ."
                  }
-    }stage('Push image'){
+    }
+    stage('Push image'){
         environment{
                DOCKER_HUB = credentials('dockerhub-creds')
         }
@@ -21,12 +22,15 @@ pipeline{
                sh 'docker push selenium/docker01:{$env.BUILD_NUMBER}'
               }
     }
-  }
-
-  post{
-  always{
-
-  sh "docker logout"
-  }
-  }
+    stage('Run Test'){
+            steps{
+                   sh 'docker compose up'
+                  }
+    }
+    stage('Bring grid down'){
+                steps{
+                       sh 'docker compose down'
+                     }
+   }
+    }
 }
