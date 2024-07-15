@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-sanity_suite" class="navigator-link">
+              <span class="suite-name border-failed">sanity suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-sanity_suite" class="navigator-link ">
+                    <span>TestNGSelenium.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-sanity_suite" class="navigator-link ">
+                    <span class="test-stats">4 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-sanity_suite" class="navigator-link ">
+                    <span>1 group</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-sanity_suite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-sanity_suite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-sanity_suite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-sanity_suite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">4 methods, 2 failed,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-sanity_suite" class="hide-methods failed suite-sanity_suite"> (hide)</a> <!-- hide-methods failed suite-sanity_suite -->
+                      <a href="#" panel-name="suite-sanity_suite" class="show-methods failed suite-sanity_suite"> (show)</a> <!-- show-methods failed suite-sanity_suite -->
+                    </span>
+                    <div class="method-list-content failed suite-sanity_suite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-sanity_suite" title="Test.SeleniumTest" class="method navigator-link" hash-for-method="searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))">searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-sanity_suite" title="Test.SeleniumTest" class="method navigator-link" hash-for-method="searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))">searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-sanity_suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-sanity_suite" class="hide-methods passed suite-sanity_suite"> (hide)</a> <!-- hide-methods passed suite-sanity_suite -->
+                      <a href="#" panel-name="suite-sanity_suite" class="show-methods passed suite-sanity_suite"> (show)</a> <!-- show-methods passed suite-sanity_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-sanity_suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-sanity_suite" title="Test.SeleniumTest" class="method navigator-link" hash-for-method="searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)">searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-sanity_suite" title="Test.SeleniumTest" class="method navigator-link" hash-for-method="searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)">searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-sanity_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-sanity_suite" class="panel sanity_suite">
+          <div class="suite-sanity_suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">Test.SeleniumTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))">
+                  </a> <!-- searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method)) -->
+                  <span class="method-name">searchForBlueButVerifyRed</span>
+                  <span class="parameters">(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))</span>
+                  <div class="stack-trace">java.lang.AssertionError: Search not match expected [true] but found [false]
+	at pageComponents.gridComponents.GridProductList.verifySearchedFor(GridProductList.java:36)
+	at Test.SeleniumTest.searchForBlueButVerifyRed(SeleniumTest.java:66)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+... Removed 20 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))">
+                  </a> <!-- searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method)) -->
+                  <span class="method-name">searchForBlueButVerifyRed</span>
+                  <span class="parameters">(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))</span>
+                  <div class="stack-trace">java.lang.AssertionError: Search not match expected [true] but found [false]
+	at pageComponents.gridComponents.GridProductList.verifySearchedFor(GridProductList.java:36)
+	at Test.SeleniumTest.searchForBlueButVerifyRed(SeleniumTest.java:66)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+... Removed 20 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-sanity_suite-class-failed -->
+          <div class="suite-sanity_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">Test.SeleniumTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)">
+                  </a> <!-- searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException) -->
+                  <span class="method-name">searchForBlue</span>
+                  <span class="parameters">(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)">
+                  </a> <!-- searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException) -->
+                  <span class="method-name">searchForBlue</span>
+                  <span class="parameters">(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-sanity_suite-class-passed -->
+        </div> <!-- panel sanity_suite -->
+        <div panel-name="test-xml-sanity_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">/home/selenium-docker/src/main/resources/test-suites/TestNGSelenium.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;4&quot; parallel=&quot;tests&quot; name=&quot;sanity suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;groups&gt;
+    &lt;run&gt;
+      &lt;include name=&quot;smoke&quot;/&gt;
+    &lt;/run&gt;
+  &lt;/groups&gt;
+  &lt;groups&gt;
+    &lt;run&gt;
+      &lt;include name=&quot;smoke&quot;/&gt;
+    &lt;/run&gt;
+  &lt;/groups&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;listeners.TestListener&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;4&quot; parallel=&quot;tests&quot; name=&quot;sanity test A&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Test.SeleniumTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;searchForBlueButVerifyRed&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- Test.SeleniumTest --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- sanity test A --&gt;
+  &lt;test thread-count=&quot;4&quot; parallel=&quot;tests&quot; name=&quot;sanity test B&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Test.SeleniumTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;searchForBlue&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- Test.SeleniumTest --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- sanity test B --&gt;
+  &lt;test thread-count=&quot;4&quot; parallel=&quot;tests&quot; name=&quot;sanity test C&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;firefox&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Test.SeleniumTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;searchForBlueButVerifyRed&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- Test.SeleniumTest --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- sanity test C --&gt;
+  &lt;test thread-count=&quot;4&quot; parallel=&quot;tests&quot; name=&quot;sanity test D&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;firefox&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Test.SeleniumTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;searchForBlue&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- Test.SeleniumTest --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- sanity test D --&gt;
+&lt;/suite&gt; &lt;!-- sanity suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-sanity_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for sanity suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">sanity test A (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">sanity test B (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">sanity test C (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">sanity test D (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-sanity_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for sanity suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">searchForBlue</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">searchForBlueButVerifyRed</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-sanity_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for sanity suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_sanity_suite');
+function tableData_sanity_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(4);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'searchForBlue')
+data.setCell(0, 2, 'Test.SeleniumTest')
+data.setCell(0, 3, 4365);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'searchForBlueButVerifyRed')
+data.setCell(1, 2, 'Test.SeleniumTest')
+data.setCell(1, 3, 4068);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'searchForBlueButVerifyRed')
+data.setCell(2, 2, 'Test.SeleniumTest')
+data.setCell(2, 3, 3771);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'searchForBlue')
+data.setCell(3, 2, 'Test.SeleniumTest')
+data.setCell(3, 3, 3755);
+window.suiteTableData['sanity_suite']= { tableData: data, tableDiv: 'times-div-sanity_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 15 seconds</span>
+              <div id="times-div-sanity_suite">
+              </div> <!-- times-div-sanity_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-sanity_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for sanity suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-sanity_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">28 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">Test.SeleniumTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">openMensSectionAfterNavigatingToHome</span>
+                <br/>
+                <span class="ignored-method-name">dataDrivenTestingUsingExcel</span>
+                <br/>
+                <span class="ignored-method-name">dataDrivenTestingUsingJson</span>
+                <br/>
+                <span class="ignored-method-name">dataDrivenTestingUsingJson</span>
+                <br/>
+                <span class="ignored-method-name">searchForBlueButVerifyRed</span>
+                <br/>
+                <span class="ignored-method-name">addItemToCartButItemNotFound</span>
+                <br/>
+                <span class="ignored-method-name">addItemToCart</span>
+                <br/>
+                <span class="ignored-method-name">searchForBlueButVerifyRed</span>
+                <br/>
+                <span class="ignored-method-name">openMensSectionAfterNavigatingToHome</span>
+                <br/>
+                <span class="ignored-method-name">addItemToCart</span>
+                <br/>
+                <span class="ignored-method-name">addItemToCart</span>
+                <br/>
+                <span class="ignored-method-name">dataDrivenTestingUsingExcel</span>
+                <br/>
+                <span class="ignored-method-name">openMensSectionAfterNavigatingToHome</span>
+                <br/>
+                <span class="ignored-method-name">addItemToCartButItemNotFound</span>
+                <br/>
+                <span class="ignored-method-name">dataDrivenTestingUsingJson</span>
+                <br/>
+                <span class="ignored-method-name">consumerPractice</span>
+                <br/>
+                <span class="ignored-method-name">searchForBlue</span>
+                <br/>
+                <span class="ignored-method-name">addItemToCartButItemNotFound</span>
+                <br/>
+                <span class="ignored-method-name">dataDrivenTestingUsingJson</span>
+                <br/>
+                <span class="ignored-method-name">dataDrivenTestingUsingExcel</span>
+                <br/>
+                <span class="ignored-method-name">consumerPractice</span>
+                <br/>
+                <span class="ignored-method-name">consumerPractice</span>
+                <br/>
+                <span class="ignored-method-name">consumerPractice</span>
+                <br/>
+                <span class="ignored-method-name">searchForBlue</span>
+                <br/>
+                <span class="ignored-method-name">openMensSectionAfterNavigatingToHome</span>
+                <br/>
+                <span class="ignored-method-name">addItemToCartButItemNotFound</span>
+                <br/>
+                <span class="ignored-method-name">addItemToCart</span>
+                <br/>
+                <span class="ignored-method-name">dataDrivenTestingUsingExcel</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-sanity_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">Test.SeleniumTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">initialize</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="configuration-test before">
+                <span class="method-name">initializeDriver(chrome)</span>
+                <span class="method-start">610 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-test before">
+                <span class="method-name">initializeDriver(chrome)</span>
+                <span class="method-start">610 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-test before">
+                <span class="method-name">initializeDriver(chrome)</span>
+                <span class="method-start">611 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-test before">
+                <span class="method-name">initializeDriver(chrome)</span>
+                <span class="method-start">611 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-method before">
+                <span class="method-name">launchBrowser</span>
+                <span class="method-start">8979 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">launchBrowser</span>
+                <span class="method-start">8979 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">launchBrowser</span>
+                <span class="method-start">8980 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">launchBrowser</span>
+                <span class="method-start">8980 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))</span>
+                <span class="method-start">10893 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)</span>
+                <span class="method-start">10925 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">searchForBlue(public void Test.SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException)</span>
+                <span class="method-start">11033 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">searchForBlueButVerifyRed(public void Test.SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method))</span>
+                <span class="method-start">11035 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">quitDriver</span>
+                <span class="method-start">14803 ms</span>
+              </div> <!-- configuration-test after -->
+              <div class="configuration-test after">
+                <span class="method-name">quitDriver</span>
+                <span class="method-start">15180 ms</span>
+              </div> <!-- configuration-test after -->
+              <div class="configuration-test after">
+                <span class="method-name">quitDriver</span>
+                <span class="method-start">15214 ms</span>
+              </div> <!-- configuration-test after -->
+              <div class="configuration-test after">
+                <span class="method-name">quitDriver</span>
+                <span class="method-start">15293 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

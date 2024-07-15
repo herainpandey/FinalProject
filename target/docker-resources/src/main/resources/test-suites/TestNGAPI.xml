@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="sanity suite">
+    <groups>
+        <run>
+            <include name="smoke"/>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="listeners.TestListener"></listener>
+        <!--<listener class-name="listeners.RetryManager"></listener>-->
+    </listeners>
+    <test name="sanity API" >
+        <classes>
+            <class name="FeatureB"/>
+        </classes>
+    </test>
+</suite>

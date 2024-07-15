@@ -1,0 +1,16 @@
+{
+"userLogin": [
+  {
+    "firstname": "Selenium by",
+    "lastname": "tester talk"
+  },
+  {
+    "firstname": "RestAssured by",
+    "lastname": "tester talk"
+  },
+  {
+    "firstname": "Appium by",
+    "lastname": "tester talk"
+  }
+]
+}

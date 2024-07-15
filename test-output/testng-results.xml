@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="2" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-14T17:22:03 IST" name="sanity suite" finished-at="2024-07-14T17:22:17 IST" duration-ms="14206">
+    <groups>
+      <group name="smoke">
+        <method signature="SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method)[pri:0, instance:SeleniumTest@76908cc0]" name="searchForBlueButVerifyRed" class="SeleniumTest"/>
+        <method signature="SeleniumTest.searchForBlue(java.lang.reflect.Method)[pri:0, instance:SeleniumTest@2145b572]" name="searchForBlue" class="SeleniumTest"/>
+        <method signature="SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method)[pri:0, instance:SeleniumTest@72f926e6]" name="searchForBlueButVerifyRed" class="SeleniumTest"/>
+        <method signature="SeleniumTest.searchForBlue(java.lang.reflect.Method)[pri:0, instance:SeleniumTest@1cbbffcd]" name="searchForBlue" class="SeleniumTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-07-14T17:22:03 IST" name="sanity test A" finished-at="2024-07-14T17:22:14 IST" duration-ms="11387">
+      <class name="SeleniumTest">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:SeleniumTest@76908cc0]" started-at="2024-07-14T17:22:03 IST" name="initializeDriver" finished-at="2024-07-14T17:22:09 IST" duration-ms="6007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:SeleniumTest@76908cc0]" started-at="2024-07-14T17:22:09 IST" name="launchBrowser" finished-at="2024-07-14T17:22:11 IST" duration-ms="1820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="searchForBlueButVerifyRed(java.lang.reflect.Method)[pri:0, instance:SeleniumTest@76908cc0]" started-at="2024-07-14T17:22:11 IST" name="searchForBlueButVerifyRed" finished-at="2024-07-14T17:22:14 IST" duration-ms="2703" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Search not match expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Search not match expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at pageComponents.gridComponents.GridProductList.verifySearchedFor(GridProductList.java:36)
+at SeleniumTest.searchForBlueButVerifyRed(SeleniumTest.java:63)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:842)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForBlueButVerifyRed -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:SeleniumTest@76908cc0]" started-at="2024-07-14T17:22:14 IST" name="quitDriver" finished-at="2024-07-14T17:22:14 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- SeleniumTest -->
+    </test> <!-- sanity test A -->
+    <test started-at="2024-07-14T17:22:03 IST" name="sanity test B" finished-at="2024-07-14T17:22:14 IST" duration-ms="11588">
+      <class name="SeleniumTest">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:SeleniumTest@2145b572]" started-at="2024-07-14T17:22:03 IST" name="initializeDriver" finished-at="2024-07-14T17:22:09 IST" duration-ms="6007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:SeleniumTest@2145b572]" started-at="2024-07-14T17:22:09 IST" name="launchBrowser" finished-at="2024-07-14T17:22:12 IST" duration-ms="2380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="searchForBlue(java.lang.reflect.Method)[pri:0, instance:SeleniumTest@2145b572]" started-at="2024-07-14T17:22:12 IST" name="searchForBlue" finished-at="2024-07-14T17:22:14 IST" duration-ms="2546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForBlue -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:SeleniumTest@2145b572]" started-at="2024-07-14T17:22:14 IST" name="quitDriver" finished-at="2024-07-14T17:22:14 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- SeleniumTest -->
+    </test> <!-- sanity test B -->
+    <test started-at="2024-07-14T17:22:03 IST" name="sanity test C" finished-at="2024-07-14T17:22:16 IST" duration-ms="13720">
+      <class name="SeleniumTest">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:SeleniumTest@72f926e6]" started-at="2024-07-14T17:22:03 IST" name="initializeDriver" finished-at="2024-07-14T17:22:11 IST" duration-ms="7918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:SeleniumTest@72f926e6]" started-at="2024-07-14T17:22:11 IST" name="launchBrowser" finished-at="2024-07-14T17:22:13 IST" duration-ms="1894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="searchForBlueButVerifyRed(java.lang.reflect.Method)[pri:0, instance:SeleniumTest@72f926e6]" started-at="2024-07-14T17:22:13 IST" name="searchForBlueButVerifyRed" finished-at="2024-07-14T17:22:15 IST" duration-ms="2485" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void SeleniumTest.searchForBlueButVerifyRed(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Search not match expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Search not match expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at pageComponents.gridComponents.GridProductList.verifySearchedFor(GridProductList.java:36)
+at SeleniumTest.searchForBlueButVerifyRed(SeleniumTest.java:63)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:842)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForBlueButVerifyRed -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:SeleniumTest@72f926e6]" started-at="2024-07-14T17:22:16 IST" name="quitDriver" finished-at="2024-07-14T17:22:16 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- SeleniumTest -->
+    </test> <!-- sanity test C -->
+    <test started-at="2024-07-14T17:22:03 IST" name="sanity test D" finished-at="2024-07-14T17:22:17 IST" duration-ms="14206">
+      <class name="SeleniumTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:SeleniumTest@1cbbffcd]" started-at="2024-07-14T17:22:03 IST" name="initialize" finished-at="2024-07-14T17:22:03 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:SeleniumTest@1cbbffcd]" started-at="2024-07-14T17:22:03 IST" name="initializeDriver" finished-at="2024-07-14T17:22:12 IST" duration-ms="8784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:SeleniumTest@1cbbffcd]" started-at="2024-07-14T17:22:12 IST" name="launchBrowser" finished-at="2024-07-14T17:22:14 IST" duration-ms="1735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="searchForBlue(java.lang.reflect.Method)[pri:0, instance:SeleniumTest@1cbbffcd]" started-at="2024-07-14T17:22:14 IST" name="searchForBlue" finished-at="2024-07-14T17:22:16 IST" duration-ms="2380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void SeleniumTest.searchForBlue(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForBlue -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:SeleniumTest@1cbbffcd]" started-at="2024-07-14T17:22:16 IST" name="quitDriver" finished-at="2024-07-14T17:22:17 IST" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- SeleniumTest -->
+    </test> <!-- sanity test D -->
+  </suite> <!-- sanity suite -->
+</testng-results>

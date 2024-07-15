@@ -1,0 +1,31 @@
+Commands
+
+# To build package
+mvn clean package -DskipTests
+
+# To run grid
+java -Dgrid=true -cp 'libs/*' org.testng.TestNG src/main/resources/test-suites/TestNGSelenium.xml
+
+
+java -Dgrid=true -Dselenium.grid.hubHost=localhost -cp 'libs/*' org.testng.TestNG src/main/resources/test-suites/TestNGSelenium.xml
+
+java -Dgrid=true -Dselenium.grid.hubHost=192.168.0.187 -cp 'libs/*' org.testng.TestNG src/main/resources/test-suites/TestNGSelenium.xml
+
+# Build docker images
+docker build -t=selenium/docker01
+
+docker run -it -v ${PWD}/result:/home/selenium-docker/test-output selenium/docker01
+
+docker run -e BROWSER=firefox -e HUB_HOST=192.168.0.187 -e TEST_SUITES=TestNGSelenium.xml selenium/docker01
+
+
+
+docker-compose -f grid.yaml up -d
+docker-compose up
+
+BROWSER=chrome docker-compose up
+
+docker-compose -f grid.yaml down
+
+docker-compose down
+

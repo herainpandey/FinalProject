@@ -1,0 +1,1079 @@
+[INFO ] 2024-07-14 12:29:05.588 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:29:05.605 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:29:05.608 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:29:05.614 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:30:47.419 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:30:47.462 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:30:47.468 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:30:47.470 [main] LogManager - dataDrivenTestingUsingJson test is skipped.
+[INFO ] 2024-07-14 12:30:47.644 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:30:49.658 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 12:31:53.324 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:31:53.364 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:31:53.370 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:31:53.371 [main] LogManager - dataDrivenTestingUsingJson test is skipped.
+[INFO ] 2024-07-14 12:31:53.515 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:31:55.531 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 12:32:45.800 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:32:47.921 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:32:47.926 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:32:47.927 [main] LogManager - dataDrivenTestingUsingJson test is skipped.
+[INFO ] 2024-07-14 12:32:48.051 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:32:50.057 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 12:35:19.588 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:35:19.634 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:35:19.638 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:35:19.639 [main] LogManager - dataDrivenTestingUsingJson test is skipped.
+[INFO ] 2024-07-14 12:35:19.774 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:35:21.780 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 12:36:29.930 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:36:31.088 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:36:33.001 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:36:33.003 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 12:36:33.105 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:36:35.312 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 12:42:08.969 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:42:09.014 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:42:09.017 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:42:09.018 [main] LogManager - dataDrivenTestingUsingJson test is skipped.
+[INFO ] 2024-07-14 12:42:09.165 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:42:11.170 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 12:47:39.620 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:47:39.663 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:47:39.667 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:47:39.668 [main] LogManager - dataDrivenTestingUsingJson test is skipped.
+[INFO ] 2024-07-14 12:47:39.812 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:47:41.818 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 12:52:20.576 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:52:20.622 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:52:20.625 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:52:20.626 [main] LogManager - dataDrivenTestingUsingJson test is skipped.
+[INFO ] 2024-07-14 12:52:20.756 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:52:22.769 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 12:59:11.704 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 12:59:13.391 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 12:59:15.121 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 12:59:15.124 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 12:59:15.328 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 12:59:17.705 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:01:02.919 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:01:04.596 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:01:06.768 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:01:06.771 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:01:06.977 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:01:09.368 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:13:35.653 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:13:37.452 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:13:39.460 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:13:39.464 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:13:39.640 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:13:42.056 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:17:22.493 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:17:24.328 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:17:26.108 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:17:26.111 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:17:26.305 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:17:28.562 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:19:22.779 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:19:24.557 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:19:26.802 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:19:26.806 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:19:27.003 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:19:29.405 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:20:41.170 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:20:42.982 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:20:45.734 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:20:45.738 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:20:45.965 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:20:48.332 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:21:08.017 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:21:09.754 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:21:12.042 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:21:12.045 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:21:12.252 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:21:14.616 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:21:49.035 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:21:50.803 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:21:52.773 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:21:52.777 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:21:52.970 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:21:55.320 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:22:38.604 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:22:40.393 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:22:42.721 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:22:42.725 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:22:42.925 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:22:45.280 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:23:02.932 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:23:04.779 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:23:07.006 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:23:07.010 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:23:07.223 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:23:09.609 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:23:21.876 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:23:23.562 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:23:25.717 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:23:25.720 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:23:25.907 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:23:28.258 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:24:18.013 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:24:19.788 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:24:20.848 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:24:20.854 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:24:47.880 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:26:25.392 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:26:31.021 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:26:33.275 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:26:33.280 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:26:33.512 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:26:36.653 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:27:33.039 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:27:36.835 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:27:39.276 [main] LogManager - dataDrivenTestingUsingJson test is starting.
+[INFO ] 2024-07-14 13:27:39.279 [main] LogManager - dataDrivenTestingUsingJson test is succeed.
+[INFO ] 2024-07-14 13:27:39.489 [main] LogManager - dataDrivenTestingUsingJson test is failed.
+[INFO ] 2024-07-14 13:27:41.994 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:29:54.644 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:29:56.732 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:29:59.317 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 13:29:59.512 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 13:30:01.338 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 13:30:01.368 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 13:30:03.485 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:54:46.214 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:54:48.202 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:54:50.554 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 13:54:50.752 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 13:54:51.936 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 13:54:51.967 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 13:54:54.067 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:57:37.032 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:57:39.010 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:57:41.239 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 13:57:41.451 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 13:57:44.386 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 13:57:46.506 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 13:58:16.445 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 13:58:17.646 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 13:58:19.832 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 13:58:20.039 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 13:58:23.000 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 13:58:25.155 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:30:44.459 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:30:44.506 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:30:44.514 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:30:44.514 [main] LogManager - searchForBlue test is skipped.
+[INFO ] 2024-07-14 14:30:44.706 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 14:30:46.726 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:31:34.639 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:32:29.780 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:32:29.791 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:32:29.792 [main] LogManager - searchForBlue test is skipped.
+[INFO ] 2024-07-14 14:33:17.702 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:33:19.705 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:33:22.191 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:33:22.395 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:33:23.591 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 14:33:23.613 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 14:33:25.736 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:33:44.401 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:33:45.596 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:33:47.982 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:33:48.203 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:33:49.801 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 14:33:49.826 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 14:33:51.925 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:36:27.955 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:36:30.306 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:36:32.420 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:36:32.621 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:36:35.391 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 14:36:37.639 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:37:05.444 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:37:07.148 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:37:08.116 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:37:08.364 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:37:12.135 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 14:37:14.377 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:39:58.743 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:41:39.405 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:41:41.435 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:41:43.710 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:41:43.921 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:41:45.711 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 14:41:45.735 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 14:41:47.876 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:43:24.064 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:43:26.008 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:43:28.194 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:43:28.417 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:43:31.472 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 14:43:33.679 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:52:11.773 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:52:13.709 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:52:15.935 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:52:16.139 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:52:19.639 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 14:52:21.803 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:52:41.424 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:52:42.587 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:52:44.894 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:52:45.117 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:52:48.993 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 14:52:51.193 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:53:04.115 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:53:05.337 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:53:07.435 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:53:07.687 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:53:10.572 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 14:53:12.778 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 14:54:00.787 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 14:54:06.595 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 14:54:08.796 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 14:54:09.030 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 14:54:11.555 [main] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 14:54:14.751 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:01:41.296 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:01:41.296 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:01:46.228 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:01:48.448 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:01:48.698 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:01:51.290 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:01:54.714 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:01:55.288 [TestNG-tests-1] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:01:58.113 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:02:00.393 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:02:00.393 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:02:00.399 [TestNG-tests-2] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:02:03.919 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:02:04.088 [TestNG-tests-2] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:02:07.444 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:02:09.500 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:02:09.500 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:02:09.502 [TestNG-tests-1] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:02:13.005 [TestNG-tests-1] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:02:16.374 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:02:18.586 [TestNG-tests-2] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:02:18.588 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:02:18.589 [TestNG-tests-2] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:02:22.099 [TestNG-tests-2] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:03:36.708 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:03:40.548 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:03:42.654 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:03:42.859 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:03:46.115 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:03:49.577 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:03:50.018 [TestNG-tests-1] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:03:53.325 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:03:55.815 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:03:55.816 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:03:55.820 [TestNG-tests-1] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:03:59.251 [TestNG-tests-1] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:03:59.382 [TestNG-tests-1] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:04:12.369 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:04:14.160 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:04:16.017 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:04:16.208 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:04:18.774 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:04:21.244 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:04:21.792 [TestNG-tests-1] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:04:26.751 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:04:28.960 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:04:28.961 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:04:28.967 [TestNG-tests-1] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:04:32.233 [TestNG-tests-1] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:04:32.379 [TestNG-tests-1] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:04:33.179 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:04:35.212 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:04:35.213 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:04:35.214 [TestNG-tests-1] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:04:37.600 [TestNG-tests-1] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:04:37.753 [TestNG-tests-1] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:04:42.278 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:04:44.471 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:04:44.472 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:04:44.473 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:04:47.588 [TestNG-tests-1] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:06:44.091 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:06:45.991 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:06:48.166 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:06:48.373 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:06:51.278 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:06:53.663 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:06:54.169 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:06:58.598 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:07:00.923 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:07:00.923 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:07:00.932 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:07:04.068 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:07:04.215 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:07:04.998 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:07:07.270 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:07:07.270 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:07:07.272 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:07:09.672 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:07:09.840 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:07:14.304 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:07:16.976 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:07:16.977 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:07:16.978 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:07:20.145 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:11:39.659 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:11:41.451 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:11:43.315 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:11:43.529 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:11:45.960 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:11:54.401 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:11:54.861 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:11:59.199 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:12:01.512 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:12:01.514 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:12:01.521 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:12:10.624 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:12:10.833 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:12:11.692 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:12:13.830 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:12:13.831 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:12:13.832 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:12:22.183 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:12:22.369 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:12:26.957 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:12:28.817 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:12:28.818 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:12:28.819 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:12:37.917 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:14:41.878 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:14:43.633 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:14:45.723 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:14:45.914 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:14:48.619 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:14:49.053 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:14:49.596 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:14:53.871 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:14:56.185 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:14:56.186 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:14:56.192 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:14:57.236 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:14:57.391 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:14:58.193 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:14:59.211 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:14:59.212 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:14:59.215 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:15:01.225 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:15:01.376 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:15:05.606 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:15:07.820 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:15:07.820 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:15:07.820 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:15:08.871 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:26:15.595 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:26:17.333 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:26:19.041 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:26:19.240 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:26:21.736 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:26:22.159 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:26:22.615 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:26:26.890 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:26:29.085 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:26:29.086 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:26:29.092 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:26:30.287 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:26:30.438 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:26:31.239 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:26:33.312 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:26:33.312 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:26:33.314 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:26:33.740 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:26:33.868 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:26:38.125 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:26:39.591 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:26:39.592 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:26:39.594 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:26:40.864 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:31:14.257 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:31:16.018 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:31:18.358 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:31:18.561 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:31:21.168 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:31:21.594 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:31:22.096 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:31:26.603 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:31:28.772 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:31:28.773 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:31:28.782 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:31:30.009 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:31:30.148 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:31:30.917 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:31:32.971 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:31:32.972 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:31:32.973 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:31:33.334 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:31:33.444 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:31:37.847 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:31:40.063 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:31:40.063 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:31:40.064 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:31:41.283 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:33:54.339 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:34:01.121 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:34:03.785 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:34:04.014 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:34:06.668 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:34:07.092 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:34:07.566 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:34:16.804 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:34:18.926 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:34:18.927 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:34:18.936 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:34:20.171 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:34:20.317 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:34:26.102 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:34:28.289 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:34:28.290 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:34:28.293 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:34:28.662 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:34:28.811 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:34:38.120 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:34:40.699 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:34:40.700 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:34:40.701 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:34:42.044 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:36:45.552 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:36:52.907 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:36:55.041 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:36:55.300 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:36:57.962 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:36:58.306 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:36:58.845 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:37:08.227 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:37:10.221 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:37:10.221 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:37:10.236 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:37:11.331 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:37:11.442 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:37:17.236 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:37:18.259 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:37:18.260 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:37:18.271 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:37:19.734 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:37:19.905 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:37:29.177 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:37:31.313 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:37:31.313 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:37:31.318 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:37:32.518 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:39:56.419 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:40:03.184 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:40:05.397 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:40:05.628 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:40:08.258 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:40:08.574 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:40:09.086 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:40:18.423 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:40:20.693 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:40:20.694 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:40:20.704 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:40:21.956 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:40:22.104 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:40:27.965 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:40:30.161 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:40:30.161 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:40:30.166 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:40:30.473 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:40:30.633 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:40:40.067 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:40:42.040 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:40:42.041 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:40:42.046 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:40:43.297 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:42:20.638 [main] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:42:27.449 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:42:29.037 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:42:29.261 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:42:32.098 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:42:32.538 [main] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:42:33.035 [main] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:42:42.275 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:42:44.891 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:42:44.891 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:42:44.903 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:42:45.981 [main] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 15:42:46.122 [main] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 15:42:51.909 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:42:53.812 [main] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:42:53.813 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:42:53.814 [main] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 15:42:54.215 [main] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 15:42:54.353 [main] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 15:43:03.624 [main] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:43:04.908 [main] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:43:04.909 [main] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:43:04.910 [main] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:43:06.013 [main] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 15:43:54.598 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:43:54.598 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 15:44:01.587 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:44:01.587 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:44:03.203 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 15:44:03.447 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:44:03.604 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:44:03.605 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:44:04.694 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 15:44:05.119 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 15:45:49.324 [TestNG-tests-1] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 15:45:56.052 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 15:45:58.668 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 15:45:58.905 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 15:46:01.532 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 15:46:01.725 [TestNG-tests-1] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:00:46.761 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:00:46.761 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:00:54.622 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:00:54.623 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:00:56.945 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:00:57.071 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:00:57.191 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:00:57.191 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:01:01.204 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:01:01.326 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:01:01.336 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:01:01.800 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:01:53.682 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:01:53.682 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 16:01:53.682 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:01:53.682 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 16:02:01.047 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:02:01.055 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:02:03.202 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:02:03.240 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:02:03.455 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:02:03.455 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:02:04.882 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:02:04.915 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:02:06.688 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:02:06.848 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:02:06.848 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:02:06.912 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:02:06.913 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:02:07.201 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:02:07.203 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:02:07.318 [TestNG-tests-4] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 16:02:07.317 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:02:07.350 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:02:08.894 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 16:02:08.904 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 16:05:42.096 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 16:05:42.096 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:05:42.096 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 16:05:42.096 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:05:48.604 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:05:48.604 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:05:50.688 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:05:50.775 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:05:50.928 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:05:50.928 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:05:51.727 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:05:51.897 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:05:54.034 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:05:54.069 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:05:54.070 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:05:54.139 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:05:54.139 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:05:54.425 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:05:54.701 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:05:55.139 [TestNG-tests-4] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 16:05:55.253 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:05:55.281 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:05:56.403 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 16:05:56.520 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 16:14:48.849 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:14:48.849 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 16:14:48.849 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:14:48.849 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 16:14:54.750 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:14:54.750 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:14:56.591 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:14:56.674 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:14:56.722 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:14:56.722 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:14:56.722 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:14:56.909 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:14:58.332 [TestNG-tests-2] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 16:14:58.678 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:14:58.706 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:14:58.767 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:14:58.768 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:14:58.771 [TestNG-tests-4] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 16:14:58.983 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:14:58.983 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:14:58.986 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:14:59.019 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:14:59.960 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 16:15:00.113 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 16:17:34.222 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 16:17:34.222 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:17:34.222 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:17:34.222 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 16:17:41.196 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:17:41.196 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:17:42.975 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:17:43.030 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:17:43.043 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:17:43.120 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:17:43.120 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:17:43.386 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:17:44.702 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:17:44.703 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:17:45.003 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:17:45.004 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:17:46.004 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:17:46.020 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:17:46.120 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:17:46.295 [TestNG-tests-4] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 16:17:46.641 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:17:46.697 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:17:47.425 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 16:17:47.657 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 16:18:07.421 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:18:07.421 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 16:18:07.421 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 16:18:07.421 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:18:14.127 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:18:14.127 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:18:15.850 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:18:15.856 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:18:15.935 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:18:15.978 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:18:15.979 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:18:16.433 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:18:17.671 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:18:17.672 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:18:18.181 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:18:18.182 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:18:18.597 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:18:18.887 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:18:19.147 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:18:19.242 [TestNG-tests-4] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 16:18:19.275 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:18:19.283 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:18:20.076 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 16:18:20.311 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 16:22:23.366 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:22:23.366 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 16:22:23.366 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 16:22:23.366 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:22:29.325 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:22:29.325 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:22:31.243 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:22:31.258 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:22:31.331 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:22:31.378 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:22:31.378 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:22:31.519 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:22:33.165 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:22:33.165 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:22:33.501 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:22:33.501 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:22:34.342 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:22:34.375 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:22:34.579 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:22:34.648 [TestNG-tests-4] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 16:22:34.714 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:22:34.743 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:22:35.716 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 16:22:35.770 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 16:28:59.171 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 16:28:59.171 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:28:59.171 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:28:59.171 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 16:29:05.484 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:29:05.484 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:29:07.285 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:29:07.302 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:29:07.316 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:29:07.411 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:29:07.448 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:29:07.448 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:29:09.287 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:29:09.287 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:29:09.335 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:29:09.336 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:29:10.160 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:29:10.440 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:29:10.506 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:29:10.679 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:29:11.574 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:29:11.885 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:29:12.478 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 16:29:12.608 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 16:34:45.884 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 16:34:45.884 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 16:34:45.884 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 16:34:45.884 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 16:34:52.222 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:34:52.222 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:34:53.946 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:34:54.111 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:34:54.163 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:34:54.274 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:34:54.274 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:34:54.396 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 16:34:55.858 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 16:34:55.858 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:34:56.606 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 16:34:56.607 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 16:34:57.021 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:34:57.255 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:34:57.294 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 16:34:57.397 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 16:34:58.692 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 16:34:59.373 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 16:34:59.812 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 16:35:00.725 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:02:04.424 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:02:04.424 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:02:04.424 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:02:04.424 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:02:10.705 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:02:10.705 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:02:12.511 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:02:12.606 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:02:12.714 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:02:12.743 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:02:13.082 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:02:13.082 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:02:14.100 [TestNG-tests-2] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 17:02:14.349 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:02:14.366 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:02:14.367 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:02:14.470 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:02:14.472 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:02:15.416 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:02:15.479 [TestNG-tests-4] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 17:02:15.654 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:02:16.438 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:02:16.745 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:02:17.649 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:04:20.001 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:04:20.001 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:04:20.001 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:04:20.001 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:04:26.341 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:04:26.341 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:04:28.086 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:04:28.207 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:04:28.210 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:04:28.224 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:04:28.224 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:04:28.225 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:04:29.303 [TestNG-tests-2] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 17:04:29.618 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:04:30.087 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:04:30.088 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:04:30.155 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:04:30.156 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:04:30.774 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:04:31.052 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:04:31.083 [TestNG-tests-4] LogManager - searchForBlue test is failed.
+[INFO ] 2024-07-14 17:04:32.053 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:04:32.457 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:04:33.384 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:06:59.626 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:06:59.626 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:06:59.626 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:06:59.626 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:07:05.912 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:07:05.912 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:07:07.691 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:07:07.710 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:07:07.824 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:07:07.865 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:07:08.100 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:07:08.101 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:07:09.456 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:07:09.457 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:07:09.807 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:07:09.808 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:07:10.629 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:07:10.854 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:07:10.919 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:07:10.991 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:07:11.783 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:07:12.093 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:07:12.696 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:07:12.882 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:08:56.457 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:08:56.457 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:08:56.457 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:08:56.457 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:09:02.395 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:09:02.395 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:09:04.161 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:09:04.293 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:09:04.301 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:09:04.329 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:09:04.330 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:09:04.332 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:09:06.080 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:09:06.081 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:09:06.167 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:09:06.168 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:09:06.980 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:09:07.102 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:09:07.491 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:09:07.751 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:09:09.124 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:09:09.305 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:09:10.091 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:09:10.104 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:09:25.911 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:09:25.911 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:09:25.911 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:09:25.911 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:09:31.832 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:09:31.832 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:09:33.567 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:09:33.707 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:09:33.839 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:09:33.948 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:09:33.948 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:09:34.027 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:09:35.601 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:09:35.602 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:09:35.796 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:09:35.797 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:09:36.176 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:09:36.409 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:09:37.242 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:09:37.368 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:09:38.018 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:09:38.679 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:09:38.934 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:09:39.400 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:14:17.959 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:14:17.959 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:14:17.959 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:14:17.959 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:14:24.756 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:14:24.756 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:14:26.604 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:14:26.706 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:14:26.740 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:14:26.740 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:14:27.099 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:14:27.100 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:14:28.848 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:14:28.848 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:14:29.487 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:14:29.488 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:14:29.601 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:14:29.605 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:14:29.726 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:14:29.942 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:14:31.209 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:14:32.021 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:14:32.074 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:14:32.944 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:19:29.589 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:19:29.589 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:19:29.589 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:19:29.589 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:19:36.401 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:19:36.401 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:19:38.184 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:19:38.233 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:19:38.243 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:19:38.337 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:19:38.353 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:19:38.353 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:19:40.008 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:19:40.009 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:19:40.238 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:19:40.239 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:19:41.005 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:19:41.341 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:19:41.622 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:19:41.805 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:19:42.918 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:19:43.235 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:19:43.779 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:19:44.064 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:22:03.671 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:22:03.671 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:22:03.671 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:22:03.671 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:22:09.696 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:22:09.696 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:22:11.518 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:22:11.594 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:22:11.680 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:22:12.077 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:22:12.077 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:22:12.460 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:22:13.488 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:22:13.489 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:22:14.196 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:22:14.197 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:22:14.222 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:22:14.569 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:22:14.623 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:22:14.769 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:22:15.974 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:22:16.576 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:22:16.901 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:22:17.387 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:25:27.736 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:25:33.475 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:25:35.510 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:25:35.634 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:25:38.257 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:25:38.484 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:25:38.759 [TestNG-tests-1] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:25:44.128 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:25:46.385 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:25:46.386 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:25:48.731 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:25:48.834 [TestNG-tests-1] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:25:48.900 [TestNG-tests-1] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:25:56.244 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:25:58.105 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:25:58.106 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:26:00.880 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:26:01.704 [TestNG-tests-1] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:26:01.789 [TestNG-tests-1] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:26:08.771 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:26:10.647 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:26:10.647 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:26:12.990 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:26:13.748 [TestNG-tests-1] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:29:23.692 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:29:29.452 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:29:31.377 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:29:31.496 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:29:34.404 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:29:34.640 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:29:34.910 [TestNG-tests-1] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:29:40.288 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:29:42.710 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:29:42.710 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:29:45.125 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:29:45.275 [TestNG-tests-1] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:29:45.340 [TestNG-tests-1] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:29:52.605 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:29:54.349 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:29:54.349 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:29:56.957 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:29:57.746 [TestNG-tests-1] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:29:57.823 [TestNG-tests-1] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:30:05.389 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:30:07.148 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:30:07.148 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:30:09.440 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:30:10.111 [TestNG-tests-1] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 17:57:13.083 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 17:57:19.491 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:57:21.526 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:57:21.782 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:57:25.961 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:57:26.497 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 17:57:27.224 [TestNG-tests-1] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 17:57:32.798 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:57:34.709 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:57:34.709 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:57:37.125 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:57:37.247 [TestNG-tests-1] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 17:57:37.320 [TestNG-tests-1] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 17:57:45.273 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:57:47.909 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 17:57:47.910 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:57:51.358 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 17:57:52.210 [TestNG-tests-1] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 17:57:52.292 [TestNG-tests-1] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 17:57:59.572 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 17:58:01.297 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 17:58:01.298 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 17:58:03.590 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 17:58:04.412 [TestNG-tests-1] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 18:01:59.192 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 18:02:05.573 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 18:02:07.586 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 18:02:07.825 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 18:02:10.687 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 18:02:11.120 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 18:02:11.827 [TestNG-tests-1] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 18:02:17.715 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 18:02:19.801 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 18:02:19.801 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 18:02:22.628 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 18:02:22.737 [TestNG-tests-1] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 18:02:22.821 [TestNG-tests-1] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 18:02:30.785 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 18:02:32.699 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 18:02:32.699 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 18:02:34.913 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 18:02:35.870 [TestNG-tests-1] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 18:02:35.982 [TestNG-tests-1] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 18:02:43.160 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 18:02:44.863 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 18:02:44.864 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 18:02:47.070 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 18:02:47.848 [TestNG-tests-1] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 18:54:13.033 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 18:54:19.526 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 18:54:21.650 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 18:54:21.764 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 18:54:24.545 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 18:54:24.811 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 18:54:25.137 [TestNG-tests-1] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 18:54:30.581 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 18:54:32.451 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 18:54:32.451 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 18:54:35.426 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 18:54:35.512 [TestNG-tests-1] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 18:54:35.592 [TestNG-tests-1] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 18:54:43.687 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 18:54:45.528 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 18:54:45.528 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 18:54:47.853 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 18:54:48.760 [TestNG-tests-1] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 18:54:48.837 [TestNG-tests-1] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 18:54:55.851 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 18:54:57.529 [TestNG-tests-1] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 18:54:57.529 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 18:54:59.836 [TestNG-tests-1] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 18:55:00.502 [TestNG-tests-1] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 20:10:56.670 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 20:10:56.670 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 20:10:56.670 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 20:10:56.670 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 20:11:04.500 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 20:11:04.501 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 20:11:06.682 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 20:11:06.734 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 20:11:06.896 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 20:11:06.896 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 20:11:06.899 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 20:11:06.900 [TestNG-tests-4] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 20:11:09.189 [TestNG-tests-4] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 20:11:09.190 [TestNG-tests-4] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 20:11:09.322 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 20:11:09.322 [TestNG-tests-3] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 20:11:10.967 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 20:11:11.195 [TestNG-tests-2] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 20:11:11.363 [TestNG-tests-1] LogManager - I am in onFinish method sanity test A
+[INFO ] 2024-07-14 20:11:11.366 [TestNG-tests-2] LogManager - I am in onFinish method sanity test B
+[INFO ] 2024-07-14 20:11:12.351 [TestNG-tests-3] LogManager - searchForBlueButVerifyRed test is failed.
+[INFO ] 2024-07-14 20:11:12.609 [TestNG-tests-4] LogManager - searchForBlue test is succeed.
+[INFO ] 2024-07-14 20:11:13.712 [TestNG-tests-3] LogManager - I am in onFinish method sanity test C
+[INFO ] 2024-07-14 20:11:13.755 [TestNG-tests-4] LogManager - I am in onFinish method sanity test D
+[INFO ] 2024-07-14 20:13:20.074 [TestNG-tests-3] LogManager - I am in onStart method sanity test C
+[INFO ] 2024-07-14 20:13:20.074 [TestNG-tests-1] LogManager - I am in onStart method sanity test A
+[INFO ] 2024-07-14 20:13:20.074 [TestNG-tests-2] LogManager - I am in onStart method sanity test B
+[INFO ] 2024-07-14 20:13:20.074 [TestNG-tests-4] LogManager - I am in onStart method sanity test D
+[INFO ] 2024-07-14 20:13:26.584 [TestNG-tests-1] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 20:13:26.584 [TestNG-tests-2] LogManager - Going to Launch Site AskOMdch.com
+[INFO ] 2024-07-14 20:13:28.704 [TestNG-tests-1] LogManager - searchForBlueButVerifyRed test is starting.
+[INFO ] 2024-07-14 20:13:28.944 [TestNG-tests-1] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 20:13:29.236 [TestNG-tests-2] LogManager - searchForBlue test is starting.
+[INFO ] 2024-07-14 20:13:29.236 [TestNG-tests-2] LogManager - Now Going to search for blue
+[INFO ] 2024-07-14 20:13:29.342 [TestNG-tests-3] LogManager - Going to Launch Site AskOMdch.com
